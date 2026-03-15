@@ -1,4 +1,4 @@
-package com.mirkamolcode.week_1;
+package com.mirkamolcode.week_2;
 
 public class BinarySearchAlgo {
     /**
